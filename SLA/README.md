@@ -18,3 +18,7 @@ Weights are dependent on resin used. Initial tests with solid infill resulted in
 
 - Produce component compatible version of Spartacus via SLA printing.
 
+### Contributions:
+
+- dury10 - The original Spartacus Project
+- gcodegearhead - Threading conversion for Spartacus_Face.stl
